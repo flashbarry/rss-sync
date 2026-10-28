@@ -1,0 +1,6 @@
+{
+  "name": "FreshFeed",
+  "description": "FreshRSS reader with Google Reader API sync, offline caching, and multi-device read state synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
